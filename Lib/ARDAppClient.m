@@ -58,7 +58,7 @@ static NSString *kARDRoomServerByeFormat =
     @"%@/leave/%@/%@";
 
 static NSString *kARDDefaultSTUNServerUrl =
-    @"stun:stun.l.google.com:19302";
+    @"stun:stun.ideasip.com";
 // TODO(tkchin): figure out a better username for CEOD statistics.
 static NSString *kARDTurnRequestUrl =
     @"https://computeengineondemand.appspot.com"
