@@ -31,6 +31,11 @@ xcuserdata
 *.ipa
 *.xcuserstate
 
+# Pods
+*.xcworkspace/
+Pods
+
 # Misc
 .DS_Store
+
 #*.lock
